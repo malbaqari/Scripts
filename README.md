@@ -1,7 +1,9 @@
 SUNBURST Detector
 #############################
 
-This is a simple powershell script to detect if your solarwinds host is present with hashes identified by FireEye for Sunburst Breach.
+This is a simple powershell script to detect if your solarwinds host is present with hashes identified by FireEye for Solorigate/Sunburst Breach.
+
+https://github.com/fireeye/sunburst_countermeasures
 
 The script will post the path of the file if identified. If its present, you are highly suspicious to post-exploitation.
 
